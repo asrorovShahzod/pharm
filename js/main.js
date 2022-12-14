@@ -1,0 +1,1 @@
+!function(){const t=document.querySelector(".lang-dropdown");t.addEventListener("click",(()=>{t.classList.toggle("active")})),window.addEventListener("click",(function(e){t.contains(e.target)||t.contains(e.target)||t.classList.remove("active")}))}();
